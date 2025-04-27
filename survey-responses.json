@@ -469,5 +469,40 @@
     "featureRating": 7,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T09:33:38.345Z"
+  },
+  {
+    "email": "akeenan@usc.edu",
+    "userName": "Artyom Keenan",
+    "songRecommendations": [
+      "Style",
+      "Budapest",
+      "Rivers and Roads",
+      "Car Loans"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 5,
+    "betterThanPersonalChoice": "no",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 5,
+    "emotionsInfluencePosts": "not-at-all",
+    "submittedAt": "2025-04-27T09:36:15.230Z"
   }
 ]
