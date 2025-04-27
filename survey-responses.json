@@ -539,5 +539,40 @@
     "featureRating": 6,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T10:34:32.574Z"
+  },
+  {
+    "email": "chandannofficial@gmail.com",
+    "userName": "Chandan Narayanappa",
+    "songRecommendations": [
+      "Fix You",
+      "Best Day of My Life",
+      "Don't Stop Me Now",
+      "Disintegration - 2010 Remaster"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "none"
+    ],
+    "overallRelevanceTypes": {
+      "none": "none"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 8,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 8,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T13:34:12.837Z"
   }
 ]
