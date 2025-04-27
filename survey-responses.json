@@ -1,0 +1,23 @@
+[
+  {
+    "email": "meghana.bhat@example.com",
+    "userName": "Meghana Bhat",
+    "songRecommendations": [
+      "Here Comes the Sun",
+      "Walking on Sunshine",
+      "Riptide",
+      "A Thousand Miles"
+    ],
+    "reportedEmotions": ["Happy", "Excited"],
+    "mostRelevantSong": "song1",
+    "overallRelevance": "very-relevant",
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 5,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "somewhat",
+    "featureRating": 5,
+    "emotionsInfluencePosts": "significantly",
+    "postsInfluenceEmotions": "significantly",
+    "submittedAt": "2025-04-26T19:30:31.964Z"
+  }
+]
