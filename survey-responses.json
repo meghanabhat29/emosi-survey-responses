@@ -788,5 +788,40 @@
     "featureRating": 8,
     "emotionsInfluencePosts": "somewhat",
     "submittedAt": "2025-04-27T17:38:05.176Z"
+  },
+  {
+    "email": "shashida@usc.edu",
+    "userName": "Shreya Shashidar",
+    "songRecommendations": [
+      "Love Story",
+      "Home",
+      "Budapest",
+      "A Thousand Miles"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song4"
+    ],
+    "overallRelevanceTypes": {
+      "song4": "rag"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 5,
+    "betterThanPersonalChoice": "no",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 5,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T18:08:37.309Z"
   }
 ]
