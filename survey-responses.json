@@ -716,5 +716,42 @@
     "featureRating": 9,
     "emotionsInfluencePosts": "somewhat",
     "submittedAt": "2025-04-27T16:54:11.849Z"
+  },
+  {
+    "email": "abhilasha22@gmail.com",
+    "userName": "Abhilasha",
+    "songRecommendations": [
+      "Fix You",
+      "Nostalgia (The Day I Knew)",
+      "Somewhere Only We Know",
+      "Humoreske, Op. 20: Hastig"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song2",
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song2": "slider_text",
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 6,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "somewhat",
+    "featureRating": 7,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T17:07:56.636Z"
   }
 ]
