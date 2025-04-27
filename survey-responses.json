@@ -111,5 +111,40 @@
     "featureRating": 1,
     "emotionsInfluencePosts": "somewhat",
     "submittedAt": "2025-04-27T07:16:39.826Z"
+  },
+  {
+    "email": "vojjala@usc.edu",
+    "userName": "Lalitha Vojjala",
+    "songRecommendations": [
+      "Banana Pancakes",
+      "Here Comes the Sun",
+      "Sunrise",
+      "Answering Machine"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song2",
+    "mostRelevantSongType": "slider_text",
+    "overallRelevance": [
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 7,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 7,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T07:16:44.006Z"
   }
 ]
