@@ -255,5 +255,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T07:39:15.397Z"
+  },
+  {
+    "email": "bharat.vh09@gmail.com",
+    "userName": "Bharat Hiremath",
+    "songRecommendations": [
+      "Take Me Home, Country Roads",
+      "Whatever It Takes",
+      "Centuries",
+      "Disintegration - 2010 Remaster"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 9,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 8,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T08:02:51.287Z"
   }
 ]
