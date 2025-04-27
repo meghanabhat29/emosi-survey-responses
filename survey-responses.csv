@@ -1,3 +1,2 @@
 email,userName,songRecommendations,songTypes,reportedEmotions,mostRelevantSong,mostRelevantSongType,overallRelevance,overallRelevanceTypes,emotionAlignment,relevanceRating,betterThanPersonalChoice,newEmotionalDiscovery,featureRating,emotionsInfluencePosts,postsInfluenceEmotions,submittedAt
-mrbhat@usc.edu,Meghana Bhat,"[""Just the Way You Are"",""I'm Yours"",""I Really Like You"",""A Thousand Miles""]","[""image"",""slider_text"",""image_slider_text"",""rag""]","[""Inspired"",""Creative""]",song1,image,"[""song1""]","{""song1"":""image""}",yes,7,somewhat,yes,7,significantly,,2025-04-27T02:05:59.193Z
-yashaswini.rvb@gmail.com,Yashaswini,"[""Ocean Eyes"",""Photograph"",""Runaway"",""Every Night About This Time""]","[""image"",""slider_text"",""image_slider_text"",""rag""]","[""Inspired"",""Creative""]",,,"[]","{}",,5,,,5,,,2025-04-27T02:06:42.474Z
+
