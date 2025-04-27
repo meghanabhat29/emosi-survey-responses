@@ -399,5 +399,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T08:44:28.687Z"
+  },
+  {
+    "email": "harshithakmurthy20@gmail.com",
+    "userName": "Harshitha GK",
+    "songRecommendations": [
+      "Brave",
+      "Good Riddance (Time of Your Life)",
+      "Count on Me",
+      "Le maschere: Overture - Excerpt"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song2"
+    ],
+    "overallRelevanceTypes": {
+      "song2": "slider_text"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 8,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 10,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T09:13:57.692Z"
   }
 ]
