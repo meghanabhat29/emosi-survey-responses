@@ -574,5 +574,42 @@
     "featureRating": 8,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T13:34:12.837Z"
+  },
+  {
+    "email": "kinra@usc.edu",
+    "userName": "Astha Kinra",
+    "songRecommendations": [
+      "Riptide",
+      "Somewhere Over The Rainbow",
+      "Banana Pancakes",
+      "A Thousand Miles"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song2",
+    "mostRelevantSongType": "slider_text",
+    "overallRelevance": [
+      "song2",
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song2": "slider_text",
+      "song1": "image"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 9,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 10,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T14:13:10.151Z"
   }
 ]
