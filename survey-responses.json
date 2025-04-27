@@ -611,5 +611,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T14:13:10.151Z"
+  },
+  {
+    "email": "tanishqkinra@gmail.com",
+    "userName": "Tanishq Kinra",
+    "songRecommendations": [
+      "Sunset Lover",
+      "Banana Pancakes",
+      "Good People",
+      "Tristeza Criolla (Remasterizado)"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "none"
+    ],
+    "overallRelevanceTypes": {
+      "none": "none"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 7,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 7,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T14:25:19.990Z"
   }
 ]
