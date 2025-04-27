@@ -1232,5 +1232,40 @@
     "featureRating": 8,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T21:51:46.468Z"
+  },
+  {
+    "email": "nvpatil@usc.edu",
+    "userName": "Namratha Patil",
+    "songRecommendations": [
+      "Shut Up and Dance",
+      "Send Me On My Way",
+      "Budapest",
+      "Please Love Me"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 7,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "somewhat",
+    "featureRating": 7,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T22:04:53.501Z"
   }
 ]
