@@ -753,5 +753,40 @@
     "featureRating": 7,
     "emotionsInfluencePosts": "somewhat",
     "submittedAt": "2025-04-27T17:07:56.636Z"
+  },
+  {
+    "email": "gratch@ict.usc.edu",
+    "userName": "Jonathan Gratch",
+    "songRecommendations": [
+      "Take It Easy",
+      "I'm Good",
+      "Feel It Still",
+      "Disintegration - 2010 Remaster"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 9,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 8,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T17:38:05.176Z"
   }
 ]
