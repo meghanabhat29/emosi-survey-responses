@@ -1045,5 +1045,44 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T19:28:56.111Z"
+  },
+  {
+    "email": "am13625@usc.edu",
+    "userName": "Anushka Mahajan",
+    "songRecommendations": [
+      "Saturn",
+      "Riptide",
+      "Sunflower",
+      "A Thousand Miles"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song3",
+      "song2",
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text",
+      "song2": "slider_text",
+      "song1": "image"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 10,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 10,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T19:29:29.590Z"
   }
 ]
