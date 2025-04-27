@@ -290,5 +290,44 @@
     "featureRating": 8,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T08:02:51.287Z"
+  },
+  {
+    "email": "ashwik6069@gmail.com",
+    "userName": "Ashwik",
+    "songRecommendations": [
+      "Believer",
+      "Can't Stop the Feeling!",
+      "Centuries",
+      "Disintegration - 2010 Remaster"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song2",
+      "song3",
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song2": "slider_text",
+      "song3": "image_slider_text",
+      "song1": "image"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 7,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 10,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T08:27:01.531Z"
   }
 ]
