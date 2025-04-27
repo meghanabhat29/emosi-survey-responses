@@ -1,2 +1,38 @@
 [
+  {
+    "email": "mrbhat@usc.edu",
+    "userName": "Meghana Bhat",
+    "songRecommendations": [
+      "Just the Way You Are",
+      "I'm Yours",
+      "I Really Like You",
+      "A Thousand Miles"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 7,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 7,
+    "emotionsInfluencePosts": "significantly",
+    "postsInfluenceEmotions": "",
+    "submittedAt": "2025-04-27T02:05:59.193Z"
+  }
 ]
