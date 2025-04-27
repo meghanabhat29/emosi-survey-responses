@@ -1084,5 +1084,42 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T19:29:29.590Z"
+  },
+  {
+    "email": "medepall@usc.edu",
+    "userName": "Lakshmi Manasa M",
+    "songRecommendations": [
+      "Walking on Sunshine",
+      "Empire State of Mind",
+      "Welcome to New York",
+      "After the Ball"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song1",
+      "song4"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image",
+      "song4": "rag"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 9,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "somewhat",
+    "featureRating": 8,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T19:33:15.407Z"
   }
 ]
