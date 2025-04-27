@@ -1267,5 +1267,40 @@
     "featureRating": 7,
     "emotionsInfluencePosts": "somewhat",
     "submittedAt": "2025-04-27T22:04:53.501Z"
+  },
+  {
+    "email": "olawale@usc.edu",
+    "userName": "Mobolaji Olawale",
+    "songRecommendations": [
+      "Bloom",
+      "Banana Pancakes",
+      "Put It All On Me",
+      "A Thousand Miles"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 8,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 6,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T23:29:06.239Z"
   }
 ]
