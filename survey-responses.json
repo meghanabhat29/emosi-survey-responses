@@ -434,5 +434,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T09:13:57.692Z"
+  },
+  {
+    "email": "alpeshsh@usc.edu",
+    "userName": "Alpesh Shinde",
+    "songRecommendations": [
+      "Send Me On My Way",
+      "On Top of the World",
+      "Hall of Fame",
+      "Answering Machine"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song2",
+    "mostRelevantSongType": "slider_text",
+    "overallRelevance": [
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 7,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "somewhat",
+    "featureRating": 7,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T09:33:38.345Z"
   }
 ]
