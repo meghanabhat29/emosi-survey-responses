@@ -860,5 +860,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T18:14:49.891Z"
+  },
+  {
+    "email": "chandan.billa9@gmail.com",
+    "userName": "Chandan Billa",
+    "songRecommendations": [
+      "Lose Yourself",
+      "Best Day of My Life",
+      "Happy",
+      "Answering Machine"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image"
+    },
+    "emotionAlignment": "no",
+    "relevanceRating": 6,
+    "betterThanPersonalChoice": "no",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 5,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T18:33:06.262Z"
   }
 ]
