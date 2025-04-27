@@ -1,2 +1,3 @@
 email,userName,songRecommendations,reportedEmotions,mostRelevantSong,overallRelevance,emotionAlignment,relevanceRating,betterThanPersonalChoice,newEmotionalDiscovery,featureRating,emotionsInfluencePosts,postsInfluenceEmotions,submittedAt
-
+meghana.bhat@example.com,Meghana Bhat,"[""Here Comes the Sun"",""Walking on Sunshine"",""Riptide"",""A Thousand Miles""]","[""Happy"",""Excited""]",song1,very-relevant,somewhat,5,yes,somewhat,5,significantly,significantly,2025-04-26T19:30:31.964Z
+mrbhat@usc.edu,Meghana Bhat,"[""Just the Way You Are"",""I'm Yours"",""I Really Like You"",""A Thousand Miles""]","[""image"",""slider_text"",""image_slider_text"",""rag""]","[""Inspired"",""Creative""]",song1,image,"[""song4""]","{""song4"":""rag""}",yes,7,yes,yes,8,significantly,,2025-04-27T02:03:27.178Z
