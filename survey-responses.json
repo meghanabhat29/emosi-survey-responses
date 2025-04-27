@@ -146,5 +146,44 @@
     "featureRating": 7,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T07:16:44.006Z"
+  },
+  {
+    "email": "poornash@usc.edu",
+    "userName": "Poornashree Nagaraju",
+    "songRecommendations": [
+      "It’s Beginning to Look a Lot Like Christmas",
+      "Winter Wonderland",
+      "It's the Most Wonderful Time of the Year",
+      "Cut Your Teeth (Kygo Remix)"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song1",
+      "song2",
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image",
+      "song2": "slider_text",
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 10,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 10,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T07:20:14.832Z"
   }
 ]
