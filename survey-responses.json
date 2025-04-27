@@ -185,5 +185,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T07:20:14.832Z"
+  },
+  {
+    "email": "shivaswaroop12@gmail.com",
+    "userName": "Shiva Swaroop N K",
+    "songRecommendations": [
+      "Bloom",
+      "Better Together",
+      "Bloom",
+      "Disintegration - 2010 Remaster"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song4"
+    ],
+    "overallRelevanceTypes": {
+      "song4": "rag"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 3,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 5,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T07:34:14.525Z"
   }
 ]
