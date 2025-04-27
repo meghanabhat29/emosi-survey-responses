@@ -1197,5 +1197,40 @@
     "featureRating": 7,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T21:51:08.820Z"
+  },
+  {
+    "email": "hait@usc.edu",
+    "userName": "Soumita",
+    "songRecommendations": [
+      "Hedwig’s Theme",
+      "Counting Stars",
+      "Walking on Sunshine",
+      "Disintegration - 2010 Remaster"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 9,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 8,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T21:51:46.468Z"
   }
 ]
