@@ -1,2 +1,2 @@
-email,userName,songRecommendations,songTypes,reportedEmotions,mostRelevantSong,mostRelevantSongType,overallRelevance,overallRelevanceTypes,emotionAlignment,relevanceRating,betterThanPersonalChoice,newEmotionalDiscovery,featureRating,emotionsInfluencePosts,postsInfluenceEmotions,submittedAt
-
+email,userName,songRecommendations,songTypes,reportedEmotions,mostRelevantSong,mostRelevantSongType,overallRelevance,overallRelevanceTypes,emotionAlignment,relevanceRating,betterThanPersonalChoice,newEmotionalDiscovery,featureRating,emotionsInfluencePosts,submittedAt
+mrbhat@usc.edu,Meghana Bhat,"[""Just the Way You Are"",""I'm Yours"",""I Really Like You"",""A Thousand Miles""]","[""image"",""slider_text"",""image_slider_text"",""rag""]","[""Inspired"",""Creative""]",song1,image,"[""song1""]","{""song1"":""image""}",yes,6,yes,yes,6,significantly,2025-04-27T06:34:47.664Z
