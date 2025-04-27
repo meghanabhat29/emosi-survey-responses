@@ -1156,5 +1156,46 @@
     "featureRating": 9,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T21:22:28.142Z"
+  },
+  {
+    "email": "huyxnguy@usc.edu",
+    "userName": "Huy Nguyen",
+    "songRecommendations": [
+      "Sweet Pea",
+      "On Top of the World",
+      "Feel Again",
+      "Sugar Plum"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1",
+      "song2",
+      "song3",
+      "song4"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image",
+      "song2": "slider_text",
+      "song3": "image_slider_text",
+      "song4": "rag"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 7,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 7,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T21:51:08.820Z"
   }
 ]
