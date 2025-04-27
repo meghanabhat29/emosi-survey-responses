@@ -681,5 +681,40 @@
     "featureRating": 7,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T15:57:44.593Z"
+  },
+  {
+    "email": "kundurpr@usc.edu",
+    "userName": "Kundurpr",
+    "songRecommendations": [
+      "I'll Be There for You",
+      "Shut Up and Dance",
+      "Walking on Sunshine",
+      "Won't Get Fooled Again"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 9,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "somewhat",
+    "featureRating": 9,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T16:54:11.849Z"
   }
 ]
