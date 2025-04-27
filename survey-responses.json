@@ -823,5 +823,42 @@
     "featureRating": 5,
     "emotionsInfluencePosts": "somewhat",
     "submittedAt": "2025-04-27T18:08:37.309Z"
+  },
+  {
+    "email": "dpardesh@usc.edu",
+    "userName": "Diksha Pardeshi",
+    "songRecommendations": [
+      "Motion Picture Soundtrack",
+      "Good Old Days",
+      "Riptide",
+      "Answering Machine"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song2",
+    "mostRelevantSongType": "slider_text",
+    "overallRelevance": [
+      "song1",
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image",
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 10,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 10,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T18:14:49.891Z"
   }
 ]
