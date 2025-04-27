@@ -329,5 +329,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T08:27:01.531Z"
+  },
+  {
+    "email": "yashaswini.rvb@gmail.com",
+    "userName": "Yashaswini",
+    "songRecommendations": [
+      "Ocean Eyes",
+      "Photograph",
+      "Runaway",
+      "Every Night About This Time"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 8,
+    "betterThanPersonalChoice": "somewhat",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 9,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T08:37:43.649Z"
   }
 ]
