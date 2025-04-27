@@ -930,5 +930,40 @@
     "featureRating": 6,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T18:33:20.899Z"
+  },
+  {
+    "email": "aishwaryakorkode@gmail.com",
+    "userName": "Aishwarya Korkode",
+    "songRecommendations": [
+      "Best Part",
+      "APT.",
+      "Banana Pancakes",
+      "I Got Rhythm - Live"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song3",
+    "mostRelevantSongType": "image_slider_text",
+    "overallRelevance": [
+      "song4"
+    ],
+    "overallRelevanceTypes": {
+      "song4": "rag"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 6,
+    "betterThanPersonalChoice": "no",
+    "newEmotionalDiscovery": "somewhat",
+    "featureRating": 9,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-27T18:40:33.833Z"
   }
 ]
