@@ -76,5 +76,40 @@
     "featureRating": 10,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T06:57:25.901Z"
+  },
+  {
+    "email": "pranavij@usc.edu",
+    "userName": "Pranavi Jain",
+    "songRecommendations": [
+      "Stronger",
+      "Happy",
+      "Weird Fishes/Arpeggi",
+      "Won't Get Fooled Again"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "none",
+    "mostRelevantSongType": "none",
+    "overallRelevance": [
+      "song2"
+    ],
+    "overallRelevanceTypes": {
+      "song2": "slider_text"
+    },
+    "emotionAlignment": "no",
+    "relevanceRating": 2,
+    "betterThanPersonalChoice": "no",
+    "newEmotionalDiscovery": "no",
+    "featureRating": 1,
+    "emotionsInfluencePosts": "somewhat",
+    "submittedAt": "2025-04-27T07:16:39.826Z"
   }
 ]
