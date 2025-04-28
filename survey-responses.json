@@ -1376,5 +1376,44 @@
     "featureRating": 6,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-28T01:10:10.289Z"
+  },
+  {
+    "email": "amoghdes@usc.edu",
+    "userName": "Amogh Deshpande",
+    "songRecommendations": [
+      "I'm Yours",
+      "Adventure of a Lifetime",
+      "Best Day of My Life",
+      "Sugar Plum"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song1",
+      "song3",
+      "song4"
+    ],
+    "overallRelevanceTypes": {
+      "song1": "image",
+      "song3": "image_slider_text",
+      "song4": "rag"
+    },
+    "emotionAlignment": "yes",
+    "relevanceRating": 8,
+    "betterThanPersonalChoice": "yes",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 10,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-28T02:06:03.615Z"
   }
 ]
