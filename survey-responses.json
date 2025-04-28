@@ -1341,5 +1341,40 @@
     "featureRating": 9,
     "emotionsInfluencePosts": "significantly",
     "submittedAt": "2025-04-27T23:59:08.593Z"
+  },
+  {
+    "email": "maruthup@usc.edu",
+    "userName": "Niyantha Pandiyan",
+    "songRecommendations": [
+      "Island in the Sun",
+      "River Flows In You",
+      "Budapest",
+      "After the Ball"
+    ],
+    "songTypes": [
+      "image",
+      "slider_text",
+      "image_slider_text",
+      "rag"
+    ],
+    "reportedEmotions": [
+      "Inspired",
+      "Creative"
+    ],
+    "mostRelevantSong": "song1",
+    "mostRelevantSongType": "image",
+    "overallRelevance": [
+      "song3"
+    ],
+    "overallRelevanceTypes": {
+      "song3": "image_slider_text"
+    },
+    "emotionAlignment": "somewhat",
+    "relevanceRating": 6,
+    "betterThanPersonalChoice": "no",
+    "newEmotionalDiscovery": "yes",
+    "featureRating": 6,
+    "emotionsInfluencePosts": "significantly",
+    "submittedAt": "2025-04-28T01:10:10.289Z"
   }
 ]
